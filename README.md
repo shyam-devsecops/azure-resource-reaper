@@ -3,7 +3,7 @@
 Automatically deletes all Azure Resource Groups on a scheduled interval using **GitHub Actions**, **OIDC (OpenID Connect)** authentication, and the **Azure CLI**.
 
 > ⚠️ **Warning**
-> This workflow deletes **every Resource Group** in the configured Azure subscription. Use only with a dedicated lab or sandbox subscription.
+> This workflow deletes **every Resource Group** in the configured Azure subscription. Use only with a dedicated lab or sandbox subscription
 
 ---
 
